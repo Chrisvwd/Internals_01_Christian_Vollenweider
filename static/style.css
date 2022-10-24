@@ -1,0 +1,182 @@
+body {
+    background: linear-gradient(0deg,  rgb(0, 0, 0) 0%, rgb(62, 0, 67) 100%);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a:link{
+    color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a:visited{
+    color: rgb(191, 107, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#topnav{
+    margin: auto;
+    text-align: left;
+    margin-top: 1%;
+    text-align: center;
+
+}
+
+#topnavhome{
+    border: 2px;
+    border-style: hidden solid;
+    border-radius: 5px;
+    border-color: aliceblue;
+    margin-left: 5px;
+}
+#topnavsocials{
+    border: 2px;
+    border-style: hidden solid;
+    border-radius: 5px;
+    border-color: aliceblue;
+    margin-left: 5px;
+
+}
+#topnavcontact{
+    border: 2px;
+    border-style: hidden solid;
+    border-radius: 5px;
+    border-color: aliceblue;
+    margin-left: 5px;
+
+}
+#topnavportfolio{
+    border: 2px;
+    border-style: hidden solid;
+    border-radius: 5px;
+    border-color: aliceblue;
+    margin-left: 5px;
+
+}
+
+#index{
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(0deg, rgb(210, 250, 255) 0%, rgb(255, 255, 255) 100%);
+    border-radius: 10px;
+    text-align: center;
+}
+
+
+#contact{
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(0deg, rgb(255, 210, 210) 0%, rgb(255, 255, 255) 100%);
+    border-radius: 10px;
+    text-align: center;
+}
+
+#portfolio{
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(0deg, rgb(210, 255, 215) 0%, rgb(255, 255, 255) 100%);
+    border-radius: 10px;
+    text-align: center;
+}
+#portfolioText{
+    border: 7px;
+    border-color: red;
+    border-style: hidden hidden hidden solid;
+    border-radius: 10px;
+    height: auto;
+    width: 700px;
+    text-align: center;
+    display: inline-block;
+    font-size: large;
+}
+
+#socials{
+    width: 100%;
+    height: auto;
+    background: linear-gradient(0deg, rgb(244, 255, 210) 0%, rgb(255, 255, 255) 100%);
+    border-radius: 10px;
+    text-align: center;
+    display: inline-block;
+}
+
+#socialsIG{
+    display: inline-block;
+    border: 5px;
+    border-style: solid;
+    border-color: rgb(255, 192, 203);
+    border-radius: 15px;
+    width: 500px;
+    height: 300px;
+    background-color: rgba(255, 192, 203, 0.5);
+}
+#IGsample1{
+    margin-left: 20px;
+}
+#IGsample2{
+    margin-left: 20px;    
+}
+#IGsample3{
+    margin-top: 20px;
+}
+
+#socialsFB{
+    display: inline-block;
+    border: 5px;
+    border-style: solid;
+    border-color: rgb(208, 192, 255);
+    border-radius: 15px;
+    width: 500px;
+    height: 300px;
+    background-color: rgba(208, 192, 255, 0.5);
+}
+#FBsample1{
+    margin-left: 20px;
+}
+#FBsample2{
+    margin-left: 20px;    
+}
+#FBsample3{
+    margin-top: 20px;
+}
+#socialsT{
+    display: inline-block;
+    border: 5px;
+    border-style: solid;
+    border-color: rgb(192, 235, 255);
+    border-radius: 15px;
+    width: 500px;
+    height: 300px;
+    background-color: rgba(192, 235, 255, 0.5);
+}
+#Tsample1{
+    margin-left: 20px;
+}
+#Tsample2{
+    margin-left: 20px;    
+}
+#Tsample3{
+    margin-top: 20px;
+}
+
+#footer{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+
+}
+
+#footer_socials{
+    display:inline-block;
+    width: 100%;   
+    border-radius: 10px; 
+}
+#facebookicon{
+    margin-left: -20%;
+}
+#twittericon{
+    margin-left: 0%;
+    margin-top: -5%;
+
+}
+#instaicon{
+    margin-left: 20%;
+    margin-top: -4%;
+}

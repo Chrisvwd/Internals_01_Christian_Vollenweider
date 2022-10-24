@@ -1,0 +1,7 @@
+Create a basic Portfolio o f yours using Basic structuring should be done. 
+Your Portfolio should include 
+* Navigation Menu HTML & Bar/ Side Bar (-> navigation bar on top -> home -> home page, contact -> contact page) 
+* Footer with contact info (social)
+* Information about yourself 
+* Personal Projects
+* Use only HTML and CSS 
